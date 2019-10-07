@@ -1,0 +1,17 @@
+# create react app
+create-react-app newapp
+
+# start react app
+yann start
+
+# jsx -> compile by webpack -> make object from it by createElement
+
+# we have two type of components (functional components) || (clss-based components)  
+
+# state are special variables that will be update the view with changing the value
+
+# what is this in class-based component 
+
+constructor { // that is component constructor
+    super() // this line run the father constructor (which is React.component)
+}
